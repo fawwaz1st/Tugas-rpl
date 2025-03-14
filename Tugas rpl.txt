@@ -2,6 +2,6 @@
 - Membuat 2 halaman login 
 - Membuat Dashboard admin
 - Membuat koneksi ke database
-- membuat halaman depan
-- bermain Roblox
+- Membuat halaman depan
+- Membuat tampilan menu
 - Membuat tampilan dengan tailwind css
